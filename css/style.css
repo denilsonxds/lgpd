@@ -1,0 +1,23 @@
+.menu {
+    width: 100%;
+    float: left;
+    background-color: gray;
+    padding: 18px 8%;
+}
+
+.menu li {
+    float: left;
+}
+
+.menu li a {
+    color: white;
+    margin-right: 25px;
+}
+
+.menu li a:hover {
+    color: gray;
+}
+
+ul li a {
+    text-decoration: none;
+}
